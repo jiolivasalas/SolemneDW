@@ -1,0 +1,18 @@
+.navbar-default {
+    background-color: #FFF;
+    border-color: #e7e7e7;
+    height: 102px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-top: 29px;
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+  
