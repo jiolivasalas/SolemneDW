@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .background{
 	background-color: #EAE7ED !important;
 }
@@ -24,6 +25,10 @@
 
 .navbar-default {
     background-color: solid gray;
+=======
+.navbar-default {
+    background-color: #FFF;
+>>>>>>> 9629226ef079a7005384e0f1feec79c551eb98b1
     border-color: #e7e7e7;
     height: 102px;
 }
