@@ -44,4 +44,10 @@
       margin: auto;
   }
 
-  
+.logo{
+  width: 200px;
+  margin-top: -25px;
+}
+.searchbar{
+  margin-top:10px;
+}
